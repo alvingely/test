@@ -5,7 +5,7 @@ echo $a;
 
 //Coucou c'est moi
 
-function carre(int $a)
+function carre($a)
 {
 	$a*=$a;
 	return $a/2;
