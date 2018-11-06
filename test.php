@@ -2,12 +2,15 @@
 $a=3;
 //on va push le test pour voir a partir de la branche test
 echo $a;
-function carre(int a)
+
+//Coucou c'est moi
+
+function carre(int $a)
 {
-	a*=a;
-	return a;
+	$a*=$a;
+	return $a/2;
 }
-$carredea=carre(a);
+$carredea=carre($a**5);
 echo $carredea;
 //on va push le test pour voir a partir de la branche test
 //conneries a changer
