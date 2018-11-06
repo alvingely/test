@@ -7,4 +7,6 @@ function carre(int a)
 	a*=a;
 	return a;
 }
+$carredea=carre(a);
+echo $carredea;
 ?>
