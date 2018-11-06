@@ -9,4 +9,6 @@ function carre(int a)
 }
 $carredea=carre(a);
 echo $carredea;
+//on va push le test pour voir a partir de la branche test
+//conneries a changer
 ?>
