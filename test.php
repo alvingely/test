@@ -1,4 +1,5 @@
 <php
+include "test2.php";
 $a=3;
 //on va push le test pour voir a partir de la branche test
 echo $a;
@@ -14,4 +15,5 @@ $carredea=carre($a**5);
 echo $carredea;
 //on va push le test pour voir a partir de la branche test
 //conneries a changer
+
 ?>
